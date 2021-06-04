@@ -23,7 +23,7 @@
     filter: contrast(130%);
     background-repeat: no-repeat;
     background-size: cover;
-    backdrop-filter: blur(2.8px);
+    /*backdrop-filter: blur(2.8px);*/
 
 
     
@@ -50,7 +50,7 @@
     justify-content: space-between;
     background-color: rgba(234, 236, 241, 0.281);
     /*border-radius: 18px;*/
-    backdrop-filter: blur(1.8px);
+    /*backdrop-filter: blur(1.8px);*/
 
     
 }
